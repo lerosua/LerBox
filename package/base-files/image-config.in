@@ -153,7 +153,7 @@ menuconfig VERSIONOPT
 	config VERSION_NICK
 		string
 		prompt "Release version nickname" if VERSIONOPT
-		default "Attitude Adjustment" if VERSIONOPT
+		default "onBox" if VERSIONOPT
 		help
 			This is the release codename embedded in the image.
 			If unspecified, it defaults to the name of source branch.
