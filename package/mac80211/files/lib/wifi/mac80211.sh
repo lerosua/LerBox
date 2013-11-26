@@ -589,7 +589,7 @@ config wifi-iface
 	option device   radio$devidx
 	option network  lan
 	option mode     ap
-	option ssid     RS-NET
+	option ssid     OneBox
 	option encryption none
 	option wps_pushbutton '1'
 
